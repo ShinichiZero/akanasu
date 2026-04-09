@@ -1,0 +1,2 @@
+# akanasu
+Simple pomodoro timer
